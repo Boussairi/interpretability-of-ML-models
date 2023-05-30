@@ -11,7 +11,7 @@ import pandas as pd
 import pickle
 
 
-loaded_model = pickle.load(open("C:/Users/Xps/Desktop/S4/interpretation/best_model.sav",'rb'))
+loaded_model = pickle.load(open("best_model.sav",'rb'))
 
 
 
